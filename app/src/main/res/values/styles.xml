@@ -1,0 +1,5 @@
+<resources>
+
+    <style name="Theme.TransparencyDemo" parent="Theme.AppCompat.Light" />
+
+</resources>
